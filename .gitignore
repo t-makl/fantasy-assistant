@@ -1,0 +1,13 @@
+# Local ESPN credentials, research, cached player data and backups
+/data/
+.env
+.env.*
+!.env.example
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+.pytest_cache/
